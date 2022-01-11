@@ -1,0 +1,20 @@
+{
+  "name": "auth_YoutubeApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "youtube.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajP62/Youtube-Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajP62/Youtube-Api/issues"
+  },
+  "homepage": "https://github.com/RajP62/Youtube-Api#readme"
+}
